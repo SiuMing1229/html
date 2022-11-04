@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#mainContainer {
+	color: inherit;
+	background-color: white;
+	width: 950px;
+	}
+#header	{
+	height: 10%;
+}
+#div1{
+	width: 50%;
+	height: auto;
+	float: left;
+}
+#logo{
+	float: right;
+}
+#header_text{
+	width: 50%;
+	margin-left: 50%;
+	/* height: 80px; */
+	padding: 15px 10px;
+	font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif	;
+}
+#welcome{
+	/* height: 40px; */
+	float: both;
+	border-color: black ;
+	border-style: solid;
+	border-width: thin;
+	text-align: center;
+	padding: 10px;
+}
+#menu_content{
+    width: 33%;
+}
+#content1{
+    width: 100%;
+}
+#menu{
+    width: 78%;
+    float: left;
+}
+#table0{
+    width: 22%;
+    float: right;
+    text-align: center;
+}
+#table0 h2,h4{
+    margin: 10px;
+}
+#table0 caption{
+    text-align: center;
+    width: auto;
+}
+#total{
+
+}
+
+#footer {
+	float:none;
+	background-color: #F5F5F5;
+}

@@ -1,0 +1,119 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#mainContainer {
+	color: inherit;
+	background-color: white;
+	width: 950px;
+	}
+#header 	{
+	height: 10%;
+}
+#div1{
+	width: 50%;
+	height: auto;
+	float: left;
+}
+#logo{
+	float: right;
+}
+#header_text{
+	width: 50%;
+	margin-left: 50%;
+	/* height: 80px; */
+	padding: 15px 10px;
+	font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif	;
+}
+#welcome{
+	/* height: 40px; */
+	float: both;
+	border-color: black ;
+	border-style: solid;
+	border-width: thin;
+	text-align: center;
+	padding: 10px;
+}
+#info {
+	width: 20%;
+	float: left;
+}
+dl{
+	font-size: large;
+}
+dt{
+	font-size: larger;
+	font: bold;
+	font-weight: bold;
+}
+dd{
+	padding-left: 35px;
+}
+dd img{
+	padding-left: 10px;
+}
+#info a{
+	padding-left: 5px;
+}
+#pageContent {
+	margin-left: 20%;
+}
+
+#promotion_information{
+	height: auto;
+	width: auto;
+}
+#promotion_information video{
+	width: 100%;
+	margin: 10px;
+}
+#messagee{
+	display: block;
+	margin: 10px;
+	width: 100%;
+	text-align: center;
+}
+#dvideo{
+	display:contents;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: auto;
+	size: 10%;
+}
+#form{
+	/* background-color: aquamarine; */
+	border: none;
+	margin-left: 40%;
+}
+.form_content{
+	/* background-color: bisque; */
+	text-align: center;
+}
+#reservation_form{
+	/* width: 100%; */
+	border-radius: 24px;
+}
+#reservation_form label{
+	/* background-color: #FFDFFF; */
+	text-align: left;
+	margin-left: 20%;
+	float: left;
+}
+#reservation_form select{
+	align-content: center;
+}
+#reservation_form legend{
+	margin: 0 5%;
+}
+#SR input{
+	width: 40%;
+	margin-left: 5%;
+	margin-bottom: 1%;
+}
+
+#footer {
+	float: none;
+	background-color: #F5F5F5;
+}
